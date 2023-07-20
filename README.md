@@ -23,7 +23,7 @@
     - 熱門動漫角色模組 [AbyssOrangeMix2](https://civitai.com/models/4437/abyssorangemix2-sfwsoft-nsfw) [AnythingElse V4](https://civitai.com/models/4855?modelVersionId=5581)
     - 下載完後，將模組放到 \stable-diffusion-webui\models\Stable-diffusion 中
     - 左上角Stable Diffusion checkpoint 選擇使用模組
-    ![image](https://github.com/MaYu-Yu/Stable-Diffusion-WebUI-Test/blob/master/readme_img/4.png)
+     ![image](https://github.com/MaYu-Yu/Stable-Diffusion-WebUI-Test/blob/master/readme_img/4.png)
 * ## Prompt參考範本
     - prompt:
         absurdres,1girl, small breasts(1.2), parted lips, blush, makeup, light smile,glow, thighs,
