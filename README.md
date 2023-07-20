@@ -12,18 +12,18 @@
     - Download the stable-diffusion-webui repository, for example by running `git clone https://github.com/AUTOMATIC1111/stable-diffusion-webui.git`.
     - Run `webui-user.bat` from Windows Explorer as normal, non-administrator, user.
     ### webui-user.bat執行完畢後上方會有URL， http://127.0.0.1:7860/ (開啟網站都使用這個bat)
-    ![image](https://github.com/MaYu-Yu/Stable-Diffusion-WebUI-Test/blob/master/readme_img/1.png)
+      ![image](https://github.com/MaYu-Yu/Stable-Diffusion-WebUI-Test/blob/master/readme_img/1.png)
     ### 安裝模組
     - [civitai](https://civitai.com/) 網站來找自己喜歡的圖片類型之模組
         - 按下download下載模組 
         - 從civitai的圖片按下info中的Copy Generation Data複製該張圖片參數
-        ![image](https://github.com/MaYu-Yu/Stable-Diffusion-WebUI-Test/blob/master/readme_img/2.png)
+          ![image](https://github.com/MaYu-Yu/Stable-Diffusion-WebUI-Test/blob/master/readme_img/2.png)
         - 到WebUI的左下箭頭即可貼上完整參數
-        ![image](https://github.com/MaYu-Yu/Stable-Diffusion-WebUI-Test/blob/master/readme_img/3.png)
+          ![image](https://github.com/MaYu-Yu/Stable-Diffusion-WebUI-Test/blob/master/readme_img/3.png)
     - 熱門動漫角色模組 [AbyssOrangeMix2](https://civitai.com/models/4437/abyssorangemix2-sfwsoft-nsfw) [AnythingElse V4](https://civitai.com/models/4855?modelVersionId=5581)
     - 下載完後，將模組放到 \stable-diffusion-webui\models\Stable-diffusion 中
     - 左上角Stable Diffusion checkpoint 選擇使用模組
-     ![image](https://github.com/MaYu-Yu/Stable-Diffusion-WebUI-Test/blob/master/readme_img/4.png)
+      ![image](https://github.com/MaYu-Yu/Stable-Diffusion-WebUI-Test/blob/master/readme_img/4.png)
 * ## Prompt參考範本
     - prompt:
         absurdres,1girl, small breasts(1.2), parted lips, blush, makeup, light smile,glow, thighs,
